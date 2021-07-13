@@ -8,8 +8,4 @@
     <PackageReference Include="DotLiquid" Version="2.1.488" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Implementacion\" />
-  </ItemGroup>
-
 </Project>
