@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace SOLID.PrincipioDeInversionDeDependencias
 {
-    public class IConexion
+    public interface IMailService
     {
-        void getDatos();
-        void setDatos();
+        void Send();
     }
 }
