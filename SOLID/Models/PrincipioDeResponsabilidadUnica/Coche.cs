@@ -9,7 +9,7 @@ namespace SOLID.Models
 {
 
     /// <summary>
-    /// la clase Coche tiene una unica  responsabilidades
+    /// la clase Coche tiene una unica  responsabilidad
     /// </summary>
     public abstract class Coche
     {
